@@ -1,6 +1,6 @@
 {
     "name": "angular-qrcode-hbb",
-    "version": "0.0.1",
+    "version": "6.1.2",
     "main": "qrcode.js",
     "ignore": [
         "**/.*",
